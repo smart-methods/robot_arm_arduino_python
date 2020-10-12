@@ -21,8 +21,7 @@ The robot arm has 5 joints only 4 joints are configured in the python code, the 
 
 ## Usage
 - Run test_ikpy.py script and get the angles
-- Upload kinematics.ino Arduino code and open the serial monitor to enter the angles, use the folowing format:
-
+- Upload kinematics.ino Arduino code and open the serial monitor to enter the angles, use this format:
 ```0.0, 0.0, 0.0, 0.0```
 
 (Note: all the codes use radians in the range -1.57 to 1.57)
